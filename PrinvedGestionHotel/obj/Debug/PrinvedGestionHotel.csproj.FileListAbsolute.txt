@@ -24,3 +24,8 @@ C:\Users\Papa_dollars\Documents\GitHub\PinvedGestionHotel\PrinvedGestionHotel\Pr
 C:\Users\Papa_dollars\Documents\GitHub\PinvedGestionHotel\PrinvedGestionHotel\PrinvedGestionHotel\obj\Debug\PrinvedGestionHotel.csproj.ResolveComReference.cache
 C:\Users\Papa_dollars\Documents\GitHub\PinvedGestionHotel\PrinvedGestionHotel\PrinvedGestionHotel\obj\Debug\PrinvedGestionHotel.exe
 C:\Users\Papa_dollars\Documents\GitHub\PinvedGestionHotel\PrinvedGestionHotel\PrinvedGestionHotel\obj\Debug\PrinvedGestionHotel.pdb
+C:\Users\Papa_dollars\Documents\GitHub\PinvedGestionHotel\PrinvedGestionHotel\bin\Debug\PrinvedGestionHotel.exe.config
+C:\Users\Papa_dollars\Documents\GitHub\PinvedGestionHotel\PrinvedGestionHotel\obj\Debug\Interop.IMAPI2.dll
+C:\Users\Papa_dollars\Documents\GitHub\PinvedGestionHotel\PrinvedGestionHotel\obj\Debug\PrinvedGestionHotel.csproj.ResolveComReference.cache
+C:\Users\Papa_dollars\Documents\GitHub\PinvedGestionHotel\PrinvedGestionHotel\obj\Debug\PrinvedGestionHotel.exe
+C:\Users\Papa_dollars\Documents\GitHub\PinvedGestionHotel\PrinvedGestionHotel\obj\Debug\PrinvedGestionHotel.pdb
